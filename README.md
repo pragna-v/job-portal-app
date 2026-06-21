@@ -41,28 +41,28 @@ This project demonstrates how to create a modular and scalable application using
 
 ### 🏠 Home Page
 The Landing Page of the Job Portal Platform.
-![Home Page](https://github.com/Mahmud-Alam/spring-boot-job-portal-app/blob/main/screenshots/01.png)
+![Home Page](https://github.com/Pragna-Vulli/spring-boot-job-portal-app/blob/main/screenshots/01.png)
 
 ### 📝 Job Creating Form Page
 `POST` - Create a new job
-![Job Creating Form Page](https://github.com/Mahmud-Alam/spring-boot-job-portal-app/blob/main/screenshots/02.png)
+![Job Creating Form Page](https://github.com/Pragna-Vulli/spring-boot-job-portal-app/blob/main/screenshots/02.png)
 
 ### 💼 Job Listings
 `GET` - All job posts Listing here.
-![Job Listings](https://github.com/Mahmud-Alam/spring-boot-job-portal-app/blob/main/screenshots/03.png)
+![Job Listings](https://github.com/Pragna-Vulli/spring-boot-job-portal-app/blob/main/screenshots/03.png)
 
 ### 🔍 Search Job Post by Keyword  
 `GET` - Search job listings by entering a keyword related to title, description, or company.  
-![Search Job](https://github.com/Mahmud-Alam/spring-boot-job-portal-app/blob/main/screenshots/04.png)
+![Search Job](https://github.com/Pragna-Vulli/spring-boot-job-portal-app/blob/main/screenshots/04.png)
 
 ### 🧪 Swagger UI  
 A developer-friendly interface to test and explore all RESTful APIs.  
 Access via: `/swagger-ui.html`
-![Swagger UI](https://github.com/Mahmud-Alam/spring-boot-job-portal-app/blob/main/screenshots/05.png)
+![Swagger UI](https://github.com/Pragna-Vulli/spring-boot-job-portal-app/blob/main/screenshots/05.png)
 
 ### ❌ 404 - Not Found Page  
 Displays a user-friendly message when an invalid URL is visited.  
-![404 Page](https://github.com/Mahmud-Alam/spring-boot-job-portal-app/blob/main/screenshots/06.png)
+![404 Page](https://github.com/Pragna-Vulli/spring-boot-job-portal-app/blob/main/screenshots/06.png)
 
 ---
 
@@ -119,7 +119,7 @@ Ensure you have the following installed:
 ### 🔽 Backend Setup
 
 ```bash
-git clone https://github.com/Mahmud-Alam/spring-boot-job-portal-app.git
+git clone https://github.com/pragna-v/job-portal-app.git
 cd spring-boot-job-portal-app
 cd backend
 ```
@@ -227,10 +227,10 @@ Contributions are welcome! Please open an issue first to discuss what you would 
 
 ## 🏆 Author
 **Mahmud Alam**  
-- 🌍 Portfolio: [Mahmud Alam](https://mahmudalam.com/)  
-- 📧 Email: mahmudalam.official@gmail.com  
-- 🔗 **GitHub:** [GitHub](https://github.com/Mahmud-Alam)  
-- 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mahmudalamofficial/)  
+- 🌍 Portfolio: [Pragna Vulli](https://pragnavulli.com/)  
+- 📧 Email: pragnavulli.official@gmail.com  
+- 🔗 **GitHub:** [GitHub](https://github.com/pragna-v)  
+- 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/vullipragna/)  
 
 ---
 
