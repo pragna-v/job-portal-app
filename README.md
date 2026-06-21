@@ -74,7 +74,7 @@ job-portal-backend/
 ├── src
 │   ├── main
 │   │   ├── java
-│   │   │   └── com.mahmudalam.jobportal.spring_boot_job_portal_app
+│   │   │   └── com.pragnavulli.jobportal.spring_boot_job_portal_app
 │   │   │       ├── controller
 │   │   │       ├── interfaces
 │   │   │       ├── model
@@ -85,7 +85,7 @@ job-portal-backend/
 │   │       └── templates/
 │   └── test
 │       └── java
-│           └── com.mahmudalam.jobportal.spring_boot_job_portal_app
+│           └── com.pragnavulli.jobportal.spring_boot_job_portal_app
 ├── .env
 └── pom.xml
 
