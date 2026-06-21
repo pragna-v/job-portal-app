@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💼 Job Portal App - Java Spring Boot with REST APIs, ReactJS, MongoDB
 
 ## 📌 Project Overview
@@ -238,3 +239,6 @@ Contributions are welcome! Please open an issue first to discuss what you would 
 - Thanks to the **Java Spring Boot Community** for extensive documentation and support.
 
 #### Happy coding! 🚀
+=======
+# job-portal-app
+>>>>>>> ad44f39fc75a1f5649492818975b69bae82e562a
